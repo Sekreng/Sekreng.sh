@@ -87,7 +87,7 @@ mulai (){
     if [ $lagi = "y" ]; then
             spam
     else
-            echo "Terimakasih sudah menggunakan Troll project"
+            echo "Terimakasih Sudah Mengunakan Project Sekreng"
     fi
 }
 #spam
@@ -168,14 +168,14 @@ spam(){
                   echo " Gunakan tools dengan bijak"
                   echo
                   echo " Love u always "
-                  echo " -zLucifer"
+                  echo " Sekreng Ngewe No Limit"
                   echo "========================================"
             else
                   echo Kesalahan, silahkan coba lagi
             fi
         mulai
     elif [ $pilih = "3" ]; then
-        echo "Terimakasih sudah menggunakan Troll project"
+        echo "Terimakasih sudah menggunakan Sekreng project"
         close
     else
         clear
@@ -191,10 +191,10 @@ echo "Sabar Cok.."
 load
 clear
 troll
-echo Selamat datang kak, Siapa Sekreng kaka? #tulisan keluar
+echo Selamat datang kak, Siapa kaka? #tulisan keluar
 read Sekreng #membaca yang ditulis
 clear
-echo "Sabar Cok.."
+echo "Sabar Ya Cokss"
 load
 clear
 troll
