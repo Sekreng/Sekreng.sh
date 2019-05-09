@@ -61,13 +61,13 @@ troll(){
     sleep 0.03
     echo " ============================="
     sleep 2
-    echo " ==      Troll Project      =="
+    echo " ==    Sekreng Project      =="
     sleep 0.7
     echo " ============================="
 }
 load(){
     echo -e "\n"
-    bar=" >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> "
+    bar=" SEKRENG-NGEWE-NO-LIMITTT.. UI "
     barlength=${#bar}
     i=0
     while((i<100)); do
@@ -128,7 +128,7 @@ spam(){
                     echo " Gunakan tools dengan bijak"
                     echo
                     echo " Love u always "
-                    echo " -zLucifer"
+                    echo " -Sekrenh"
                     echo "======================================="
             else
                     echo "Kesalahan"
