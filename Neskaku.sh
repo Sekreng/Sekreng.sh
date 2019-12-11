@@ -13,13 +13,13 @@ white='\033[37;1m'
 yellow='\033[33;1m'
 sleep 1
 toilet -f big -F gay "T00Ls" | lolcat
-toilet -f big -F gay "B4J1N64Nv5" 
+toilet -f big -F gay "SEKRENG" 
 echo ""      
-echo "\033[32;1mAuthor : Mr.B4J1N64N Feat Mr.IM81" 
-echo "\033[35;1mTeam : DARKNESS CYBER TEAM"
-echo "\033[33;1mKontak Me :  083108271123"
+echo "\033[32;1mAuthor : Mr.SEKRENG Feat Mrs.Neska" 
+echo "\033[35;1mTeam : Snl Team Cyber"
+echo "\033[33;1mKontak Me :  90777
 echo "\033[31;1mSubcribe Youtube:"
-echo "\033[33;1mDarkness Cyber Team" "\033[32;1m&" "\033[36;1mIndonesia Security Lite"
+echo "\033[33;1mSnl Team Cyber" "\033[32;1m&" "\033[36;1mIndonesia Security Lite"
 echo "\033[34;1m[============================[>"
 sleep 1
 echo ""
@@ -229,7 +229,7 @@ echo "[===============================================]>"
 echo $yellow "0.> keluar"
 echo "[===============================================]>"
 echo "\033[32;1m"
-read -p "[root@T00Ls-B4J1N64Nv5:~#" bro
+read -p "[root@T00Ls-SEKRENG:~#" bro
 
 if [ $bro = 1 ] || [ $bro = 1 ]
 then
