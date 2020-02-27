@@ -21,7 +21,7 @@ echo $me"                 ¶¶¶¶¶¶             ¶¶¶¶¶¶¶"
 echo $me"              ¶¶¶¶                        ¶¶¶¶"
 echo $me"             ¶¶¶                            ¶¶¶"
 echo $me"            ¶¶                                ¶¶"
-echo $me"           ¶¶                                  ¶¶"
+echo $me"           ¶¶         SEKRENG  WIRENG          ¶¶"
 echo $me"          ¶¶                                   ¶¶"
 echo $me"          ¶¶´¶¶                             ¶¶´¶¶"
 echo $me"          ¶¶´¶¶                             ¶¶´´¶"
@@ -79,7 +79,7 @@ echo $cy "[8]"$me" EXIT"
 echo "=================================================="
 echo
 echo
-echo $cy"┌==="$bi"[ SEKRENG HOLDER ]"
+echo $cy"┌==="$bi"[ SEKRENG WIRENG ]"
 echo $cy"¦"
 read -p">>>" pil;
 
@@ -152,6 +152,6 @@ sleep 2
 echo $i"Bila Ada Bug  Bisa Nanya Kepada Saya"
 sleep 2
 echo $i"WhatsApp :"$i" 085707706430"
-echo $bi"Facebook :"$i" Dicky Febrian"
+echo $bi"Facebook :"$i" SEKRENG WIRENG "
 exit
 fi
