@@ -52,7 +52,7 @@ echo $me"       ¶¶¶¶                                     ¶¶¶¶"
 echo
 echo
 echo $cy "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-echo $i  "AUTHOR   : SEKRENG HOLDER"
+echo $i  "AUTHOR   : SEKRENG WIRENG"
 echo $i  "WA       : 08888376232"
 echo $i  "YOUTUBE  : FAR KOP"
 echo $i  "TOOLS    : INSTALLER (7 TOOLS)"
